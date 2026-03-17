@@ -1,0 +1,7 @@
+# 豆包助手API依赖
+
+# 官方SDK（推荐）
+volcenginesdkarkruntime>=0.1.0
+
+# 备选：基础HTTP请求
+# requests>=2.31.0
